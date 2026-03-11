@@ -6,10 +6,10 @@ I work across computer vision, label-efficient learning, LLMs, and agentic AI sy
 
 ## Research Interests
 
+- **Agentic AI systems and LLMs:** building LLM-powered agents that plan, retrieve, and act over external knowledge; RAG pipelines, tool use, and local/offline LLM deployment
 - **Label-efficient learning:** self-supervised pretraining and active learning for settings where annotation is expensive or limited
 - **Computer vision:** image classification, feature learning, small object detection
-- **Agentic AI systems and LLMs:** building LLM-powered agents that plan, retrieve, and act over external knowledge; RAG pipelines, tool use, and local/offline LLM deployment
-- **AI for healthcare and industry:** applying ML where real-world constraints like data scarcity and domain shift make standard approaches fail
+- **AI for finance and industry:** building predictive models for financial markets and applying ML to industrial problems where real-world data constraints make standard approaches fail
 
 ## Projects
 
