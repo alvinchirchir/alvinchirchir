@@ -48,7 +48,7 @@ Backend           Python · Go · TypeScript · Node.js
 
 ## Background
 
-Before the PhD, I worked in backend engineering — building APIs, database layers, and system architecture across fintech and SaaS products. I still write a lot of code and treat research infrastructure with the same standards as production software.
+Before the PhD, I worked in backend engineering ;building APIs, database layers, and system architecture across fintech and SaaS products. I still write a lot of code and treat research infrastructure with the same standards as production software.
 
 ---
 
